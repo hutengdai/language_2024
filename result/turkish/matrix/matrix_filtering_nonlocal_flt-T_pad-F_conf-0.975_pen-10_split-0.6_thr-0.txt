@@ -1,0 +1,11 @@
+		ɑ			e			o			ø			u			y			i			ɯ			<	s	>			<	e	>
+ɑ			1			1			1			1			1			0			1			1			1			N	a	N
+e			1			1			1			0			1			1			1			0			1			N	a	N
+o			1			1			1			0			1			1			1			0			1			N	a	N
+ø			0			1			0			1			0			1			0			0			1			N	a	N
+u			1			1			1			0			1			1			1			0			1			N	a	N
+y			1			1			0			0			1			1			1			0			1			N	a	N
+i			1			1			1			0			0			1			1			0			1			N	a	N
+ɯ			1			0			0			0			0			0			0			1			1			N	a	N
+<	s	>			1			1			1			1			1			1			1			1			1			N	a	N
+<	e	>			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N			N	a	N

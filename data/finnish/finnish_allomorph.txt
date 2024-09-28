@@ -1,0 +1,879 @@
+GEN: {'n': 326, 'en': 72, 'e': 3, 'den': 22, 'tten': 6, 'de': 1}
+omena_N: {'omena': 1}
+ILL: {'an': 28, 'in': 33, 'on': 12, 'en': 26, 'seen': 4, 'siin': 4, 'a': 4, 'i': 1, 'hin': 16, 'än': 6, 'e': 1, 'un': 5, 'han': 1, 'yn': 2, 'ö': 1, 'hi': 1, 'hön': 1}
+PL: {'i': 393, 't': 141, 'j': 63}
+ADE: {'lla': 71, 'llä': 16}
+AB: {'lta': 1}
+tytär_N: {'tyttäre': 1}
+3SGPL: {'nsä': 6, 'an': 35, 'nsa': 23, 'en': 7, 'än': 11}
+PSSPCP2: {'tu': 15, 'ttu': 12, 'lu': 4, 'tty': 3, 'ty': 2, 'ru': 1, 'dy': 1, 'du': 1}
+PCP2: {'nee': 15, 'ne': 6, 'lee': 1, 'nut': 7, 'nyt': 1}
+väestö_N: {'väestö': 1}
+ELA: {'stä': 39, 'sta': 105}
+ABL: {'lta': 24, 'ltä': 10}
+PTV: {'ta': 50, 'a': 148, 'tä': 23, 'ä': 36}
+kAAn_CLI: {'kaan': 6, 'kään': 2}
+mukainen_A: {'mukais': 2}
+DAUUS: {'uude': 12, 'uus': 15, 'yyte': 3, 'uuks': 6, 'yys': 6, 'uute': 3, 'yyde': 1, 'yyt': 1, 'uut': 1}
+suunta_N: {'suunta': 2, 'suunn': 1}
+DNINEN: {'ise': 2, 'is': 2}
+kantti_N: {'kantti': 1}
+laji_N: {'laji': 1, 'laje': 1, 'laj': 1}
+DNMAINEN: {'mais': 2, 'mainen': 1, 'maise': 1, 'mäise': 1}
+TRA: {'ksi': 51, 'kse': 3}
+mäki_N: {'mäki': 3, 'mäe': 3}
+vauhti_N: {'vauhti': 1}
+päin_ADV: {'päin': 2}
+kin_CLI: {'kin': 22}
+syksyinen_A: {'syksyis': 1}
+INS: {'n': 19}
+voi_N: {'voi': 2, 'vo': 1}
+viulisti_N: {'viulist': 1}
+hälyttää_V: {'hälyt': 1}
+DVUS: {'ys': 20, 'ukse': 21, 'us': 58, 'uks': 9, 'yks': 1, 'ykse': 10}
+keskus_N: {'keskukse': 2, 'keskus': 2, 'keskuks': 1}
+ALL: {'lle': 62}
+myydä_V: {'myy': 4}
+DVNTI: {'nni': 3, 'nti': 13}
+hame_N: {'hame': 1}
+vaate_N: {'vaate': 1, 'vaatte': 1}
+yksikkö_N: {'yksikkö': 1}
+orkesteri_N: {'orkesteri': 1}
+seura_N: {'seura': 3}
+kulua_V: {'kulu': 3}
+DVTTA: {'tta': 13, 'ttä': 6, 't': 11, 'te': 5, 'tt': 1, 'tä': 1}
+DVJA: {'ja': 43, 'j': 13, 'jo': 6, 'jä': 7, 'jö': 2}
+yhtiö_N: {'yhtiö': 4}
+auttaa_V: {'autta': 1}
+nukke_N: {'nukke': 1}
+teatteri_N: {'teatteri': 2}
+tutkinto_N: {'tutkinto': 2}
+laki_N: {'laki': 2, 'lai': 2}
+DVTU: {'du': 1}
+SG2: {'t': 4}
+PCP1: {'va': 41, 'v': 19, 'vä': 14}
+kO_CLI: {'ko': 6, 'kö': 3}
+DVMATON: {'mattom': 2, 'mättöm': 1, 'mattoma': 1, 'mätön': 1}
+oikea_A: {'oike': 6}
+DAUS: {'uks': 3, 'ude': 7, 'ut': 1, 'ys': 3, 'ute': 1, 'yt': 1, 'yde': 1}
+emiiri_N: {'emiiri': 1}
+kunta_N: {'kunn': 2, 'kunta': 6, 'kunna': 2, 'kunt': 1}
+INE: {'ssa': 82, 'ssä': 28}
+raja_N: {'raja': 4}
+tyyli_N: {'tyyli': 4}
+asetelma_N: {'asetelma': 1}
+merkki_N: {'merkki': 1, 'merki': 2}
+määrittää_V: {'määrit': 1}
+sana_N: {'sano': 2, 'sana': 1}
+ABE: {'tta': 7}
+DVU: {'u': 60, 'y': 14}
+myrsky_N: {'myrsky': 1}
+valta_N: {'valta': 2, 'valto': 1}
+maata_V: {'makaa': 1}
+alue_N: {'aluet': 1, 'aluee': 3, 'alue': 2}
+asema_N: {'asema': 4}
+kaava_N: {'kaava': 1}
+DVELE: {'el': 14, 'ele': 3}
+PSS: {'ta': 9, 'tta': 13, 'ttä': 4, 'la': 3, 'tt': 7, 'tä': 3, 't': 1, 'lä': 2}
+INF2: {'e': 4, 'le': 2, 'de': 2}
+DVMA: {'ma': 25, 'mä': 14, 'm': 14}
+tie_N: {'te': 2, 'tie': 8}
+osainen_A: {'osaise': 1}
+ESS: {'na': 43, 'nä': 14}
+kokous_N: {'kokoukse': 7, 'kokouks': 1, 'kokous': 1}
+kortteli_N: {'korttele': 1, 'kortteli': 1}
+luotottaa_V: {'luotot': 1}
+1PL: {'mme': 14}
+ase_N: {'ase': 1}
+maa_N: {'maa': 7, 'ma': 1}
+tyttö_N: {'tyttö': 1}
+kisa_N: {'kisa': 1}
+istua_V: {'istu': 1}
+DVMINEN: {'mis': 15, 'mise': 12, 'minen': 3}
+aste_N: {'aste': 3}
+autoistua_V: {'autoistu': 1}
+kauppias_N: {'kauppiaa': 1}
+vara_N: {'vara': 2, 'varo': 2}
+osa_N: {'osa': 2, 'os': 1}
+termi_N: {'terme': 1}
+tutkimus_N: {'tutkimus': 2, 'tutkimuks': 1}
+virasto_N: {'virasto': 2}
+raita_N: {'raita': 2}
+tarjous_N: {'tarjoukse': 1, 'tarjous': 1}
+koira_N: {'koira': 1}
+karoteeni_N: {'karoteeni': 1}
+yhdiste_N: {'yhdistee': 1}
+suur: {'suur': 1}
+lähettiläs_N: {'lähettiläs': 1}
+DNLAINEN: {'lais': 1, 'lainen': 1, 'laise': 2, 'läis': 1, 'läise': 3, 'läinen': 1}
+konsultti_N: {'konsultti': 1}
+sotilas_N: {'sotila': 1, 'sotilaa': 1, 'sotilas': 1}
+luonnos_N: {'luonnokse': 1}
+riihi_N: {'riih': 1}
+bändi_N: {'bändi': 1}
+laulaa_V: {'laula': 1}
+lähde_N: {'lähte': 2, 'lähtee': 2}
+nippu_N: {'nippu': 1}
+linja_N: {'linja': 4}
+dramaturgia_N: {'dramaturgia': 1}
+kuunnella_V: {'kuunteli': 1}
+ryhmä_N: {'ryhmä': 7, 'ryhm': 3}
+sihteeri_N: {'sihteeri': 2}
+vaali_N: {'vaale': 3, 'vaali': 1}
+jana_N: {'jana': 1}
+edus_N: {'edus': 1}
+kysymys_N: {'kysymykse': 2, 'kysymys': 1, 'kysymyks': 1}
+DNTON: {'ttoma': 3, 'ton': 2, 'ttom': 1, 'ttöm': 3}
+CMP: {'mp': 2, 'mma': 3, 'mm': 3, 'mpa': 2, 'mmä': 2, 'mpi': 1, 'mpä': 1}
+kieli_N: {'kiele': 1}
+DNLLINEN: {'llis': 13, 'llise': 10, 'llinen': 1}
+juha_N: {'juha': 1}
+1SG: {'ni': 14}
+toivoa_V: {'toivo': 1}
+joki_N: {'joe': 1}
+työ_N: {'työ': 13, 'tö': 2}
+keino_N: {'keino': 2}
+tuki_N: {'tue': 4, 'tuki': 1, 'tu': 1, 'tuke': 1}
+kuva_N: {'kuva': 6, 'kuv': 1}
+klassikko_N: {'klassiko': 1}
+rahasto_N: {'rahasto': 2}
+kampanja_N: {'kampanja': 2}
+puisto_N: {'puisto': 1}
+kerta_N: {'kerto': 1}
+käsitys_N: {'käsitykse': 1}
+elämä_N: {'elämä': 5}
+tapa_N: {'tapa': 1, 'tapo': 1, 'tava': 1}
+2PL: {'nne': 3}
+taantuma_N: {'taantuma': 2}
+kiinteistö_N: {'kiinteistö': 2}
+tuottaa_V: {'tuotta': 1}
+veikata_V: {'veikka': 1}
+DVILE: {'il': 8, 'ile': 2, 'ili': 2}
+voidella_V: {'voitel': 1}
+näkemätön_A: {'näkemättömä': 1}
+joukko_N: {'jouko': 5, 'joukko': 2}
+komissio_N: {'komissio': 3}
+nuuska_N: {'nuuska': 1}
+palvella_V: {'palvel': 8}
+varuste_N: {'varustee': 1, 'varuste': 1}
+mielinen_A: {'mielis': 4}
+pituinen_A: {'pituis': 1}
+huippu_N: {'huippu': 1}
+tehtävä_N: {'tehtäv': 3, 'tehtävä': 2}
+PAST: {'i': 25}
+PL3: {'vat': 6, 'vät': 2}
+PL1: {'mme': 8}
+kämppä_N: {'kämppä': 1}
+paikka_N: {'paikka': 8, 'paikko': 1, 'paika': 2, 'paiko': 1}
+puoli_N: {'puole': 4, 'puoli': 1}
+DVNTA: {'ntä': 1, 'nta': 13, 'nna': 3, 'nto': 2, 'ntö': 1, 'nnä': 1}
+kuulua_V: {'kuulu': 1}
+tassu_N: {'tassu': 1}
+varsi_N: {'varsi': 1}
+vetoinen_A: {'vetoise': 2}
+edustaa_V: {'edust': 1, 'edusta': 2}
+talous_N: {'taloude': 1, 'talous': 5}
+eurokulua_V: {'eurokulu': 1}
+sopimus_N: {'sopimuks': 1, 'sopimus': 1, 'sopimukse': 1}
+seteli_N: {'setele': 1, 'seteli': 1}
+euroseteli_N: {'eurosetele': 1}
+veteraani_N: {'veteraani': 1}
+euroveteraani_N: {'euroveteraani': 1}
+käsi_N: {'käsi': 1}
+kirjoittaa_V: {'kirjoitta': 1}
+kampata_V: {'kamppa': 3}
+konserni_N: {'konserni': 1}
+leiri_N: {'leiri': 1}
+perinne_N: {'perintee': 1, 'perinne': 1}
+karsi_N: {'kart': 2}
+ilma_N: {'ilma': 2}
+piki_N: {'pie': 1}
+näyte_N: {'näytte': 3, 'näyttee': 1}
+sijoittaa_V: {'sijoite': 1}
+hajasijoittaa_V: {'hajasijoite': 1}
+2SG: {'si': 5}
+ominainen_A: {'ominais': 2}
+ala_N: {'alo': 2, 'ala': 1}
+haara_N: {'haara': 1}
+ihminen_N: {'ihmis': 1}
+remontti_N: {'remontti': 1, 'remonti': 1}
+DVNTAA: {'nta': 3, 'nn': 2, 'nne': 1}
+COND: {'isi': 15}
+hoito_N: {'hoito': 2, 'hoido': 1}
+kruunu_N: {'kruunu': 1}
+tukku_N: {'tukku': 1}
+INF1: {'a': 12, 'ä': 5}
+aihe_N: {'aihe': 1, 'aihee': 1}
+erä_N: {'er': 1, 'erä': 1}
+kangas_N: {'kankaa': 1}
+heinä_N: {'heinä': 2}
+pää_N: {'pää': 7, 'pä': 1}
+päivä_N: {'päivä': 3, 'päiv': 1}
+vaara_N: {'vaara': 1}
+haastaa_V: {'haasta': 1}
+vakuuttaa_V: {'vakuut': 2}
+mutka_N: {'mutka': 1}
+MAN: {'sti': 9}
+säätö_N: {'säätö': 2}
+homma_N: {'homma': 1}
+toivo_N: {'toivo': 2}
+koulu_N: {'koulu': 5}
+hovi_N: {'hovi': 1}
+lahje_N: {'lahkee': 1}
+heimo_N: {'heimo': 1}
+korkea_A: {'korke': 1}
+ravuri_N: {'ravure': 1}
+syöpä_N: {'syöpä': 2}
+natsi_N: {'nats': 1}
+mies_N: {'miehe': 4, 'mies': 2}
+varjella_V: {'varjel': 1}
+SG3: {'e': 6, 'u': 2, 'a': 2}
+kattila_N: {'kattila': 1}
+vastustaa_V: {'vastusta': 1}
+puolustaa_V: {'puolust': 2}
+liitto_N: {'liito': 3, 'liitto': 2}
+revolveri_N: {'revolveri': 1}
+markka_N: {'markko': 2, 'markka': 1}
+juhla_N: {'juhla': 1, 'juhl': 1}
+konsertti_N: {'konsertte': 1}
+lehti_N: {'lehde': 2, 'lehti': 2}
+kissa_N: {'kisso': 1}
+peluri_N: {'peluri': 3}
+solmuke_N: {'solmuke': 2}
+syödä_V: {'syö': 2}
+vahinko_N: {'vahinko': 1}
+ähky_N: {'ähky': 1}
+majuri_N: {'majuri': 2}
+himoinen_A: {'himoise': 1}
+osuus_N: {'osuude': 1, 'osuus': 1}
+päättö_N: {'päätö': 1}
+vaimennin_N: {'vaimentim': 1}
+teho_N: {'teho': 1}
+SG1: {'n': 5}
+istuin_N: {'istuin': 2}
+pyrkimys_N: {'pyrkimyks': 1}
+berliini_N: {'berliini': 2}
+helsinki_N: {'helsinki': 1}
+viiva_N: {'viiva': 1}
+pallo_N: {'pallo': 5}
+kartta_N: {'karta': 1}
+vuo_N: {'vuo': 3}
+hAn_CLI: {'han': 4}
+sali_N: {'sali': 3}
+juoksu_N: {'juoksu': 1}
+PRONSUF: {'ka': 1}
+vuotinen_A: {'vuotis': 1}
+pelata_V: {'pelaa': 1}
+kortti_N: {'kortt': 1}
+alunen_N: {'alus': 2}
+aika_N: {'aika': 4, 'aiko': 3, 'ajo': 1, 'aja': 1}
+kiire_A: {'kiire': 1, 'kiiree': 1}
+numero_N: {'numero': 1}
+vihreä_A: {'vihreä': 1}
+ruoka_N: {'ruoa': 2, 'ruua': 1}
+silli_N: {'silli': 1}
+kvartetti_N: {'kvarteti': 1}
+juhana_N: {'juhana': 1}
+juhani_N: {'juhani': 1}
+hyöty_N: {'hyödy': 1}
+ongelma_N: {'ongelm': 1, 'ongelma': 3}
+pilkka_N: {'pilka': 1}
+vaunu_N: {'vaunu': 1}
+ero_N: {'ero': 2}
+PE4: {'an': 5, 'in': 9, 'än': 3}
+teollinen_A: {'teollis': 2}
+juoma_N: {'juoma': 1}
+höylä_N: {'höylä': 1}
+ratkaista_V: {'ratkais': 2}
+jättöinen_A: {'jättöise': 1}
+momentti_N: {'momentti': 1}
+käypä_A: {'käyvä': 1}
+järkeenkäydä_V: {'järkeenkäy': 1}
+kohdata_V: {'kohta': 1}
+käsitellä_V: {'käsittel': 2}
+laitos_N: {'laitoks': 2}
+CMT: {'ine': 4}
+palikka_N: {'paliko': 1}
+kiekkoilla_V: {'kiekkoile': 1}
+jääkiekkoilla_V: {'jääkiekkoile': 1}
+POTN: {'ne': 4}
+murtaa_V: {'murta': 1}
+jäänne_N: {'jäänte': 1}
+bosnia_N: {'bosnia': 1}
+jäte_N: {'jättee': 1, 'jätte': 1}
+retki_N: {'retke': 1}
+sata_NUM: {'sata': 1}
+kokoinen_A: {'kokois': 1}
+toimia_V: {'toimi': 3}
+väki_N: {'väe': 1}
+napainen_A: {'napais': 1}
+niemi_N: {'nieme': 2, 'niemi': 2}
+pyydys_N: {'pyydyks': 2}
+viljellä_V: {'viljel': 1}
+alku_N: {'alu': 1}
+rekisteri_N: {'rekisteri': 1}
+poisto_N: {'poisto': 1}
+aine_N: {'ainee': 1, 'aine': 3}
+kallistuma_N: {'kallistuma': 1}
+musiikki_N: {'musiikki': 1}
+sarja_N: {'sarja': 2}
+puu_N: {'puu': 1, 'pu': 1}
+väli_N: {'väli': 1, 'väl': 1}
+senkki_N: {'senki': 1}
+järjestö_N: {'järjestö': 1}
+tavata_V: {'tapaa': 1, 'tapa': 1}
+eläin_N: {'eläime': 1}
+puolue_N: {'puoluee': 2}
+yhtymä_N: {'yhtymä': 1}
+kilpailla_V: {'kilpaili': 1, 'kilpail': 1}
+IMPV: {'ko': 1, 'kaa': 2}
+valikoima_N: {'valikoima': 2}
+palvelus_N: {'palvelus': 1}
+kaupunki_N: {'kaupungi': 2}
+kaappi_N: {'kaapi': 1}
+magneetti_N: {'magneett': 1}
+ote_N: {'otte': 1}
+huone_N: {'huone': 1, 'huonee': 1}
+vaikuttaa_V: {'vaikut': 1}
+tarkastaa_V: {'tarkasta': 1}
+ennuste_N: {'ennustee': 2, 'ennuste': 1}
+tuotto_N: {'tuotto': 1}
+romantiikka_N: {'romantiikka': 1}
+summa_N: {'summa': 3}
+usko_N: {'usko': 3}
+yhteinen_A: {'yhteis': 2}
+SUP: {'imm': 3, 'immä': 3, 'in': 1, 'imma': 2, 'imp': 2}
+palkkio_N: {'palkkio': 2}
+arsenaali_N: {'arsenaali': 1}
+kalpea_A: {'kalpea': 1}
+vaatimus_N: {'vaatimuks': 1, 'vaatimus': 3}
+sipuli_N: {'sipuli': 2}
+eversti_N: {'eversti': 1}
+neliö_N: {'neliö': 1}
+metri_N: {'metri': 3}
+talo_N: {'talo': 3}
+aikainen_A: {'aikaise': 1, 'aikais': 1, 'aikainen': 1}
+henkilö_N: {'henkilö': 4}
+kirjasto_N: {'kirjasto': 1}
+suosikki_N: {'suosiki': 1}
+juniori_N: {'juniori': 1}
+maasto_N: {'maasto': 1}
+pyörä_N: {'pyörä': 1}
+ajaa_V: {'aja': 1}
+DVUTTA: {'ute': 1, 'yttä': 1}
+suikale_N: {'suikale': 1}
+polku_N: {'polu': 1}
+ryöstää_V: {'ryöstä': 1}
+arvostella_V: {'arvosteli': 1}
+lohi_N: {'lohi': 1}
+filee_N: {'filee': 2}
+herra_N: {'herra': 2}
+porukka_N: {'porukka': 2}
+sävyinen_A: {'sävyise': 1}
+lapsi_N: {'las': 1}
+asia_N: {'asio': 2, 'asia': 2}
+sarvinen_A: {'sarvis': 1}
+rakenne_N: {'rakentee': 1}
+taival_N: {'taipale': 1}
+savotta_N: {'savota': 1}
+tyyppi_N: {'tyyppi': 2, 'tyypi': 2}
+troikka_N: {'troikka': 1}
+koreografia_N: {'koreografia': 1}
+finaali_N: {'finaali': 1}
+avustaa_V: {'avust': 2}
+järjestelmä_N: {'järjestelmä': 2}
+kunto_N: {'kunto': 1, 'kunno': 1}
+maisema_N: {'maisem': 1}
+olo_N: {'olo': 1}
+rata_N: {'rada': 1, 'rata': 1}
+valtio_N: {'valtio': 3}
+kiusata_V: {'kiusa': 1}
+pohja_N: {'pohja': 1}
+toveri_N: {'tovere': 1}
+apu_N: {'avu': 1}
+johtaa_V: {'johta': 5}
+saari_N: {'saar': 1}
+määrä_N: {'määrä': 2, 'määr': 1}
+yhteys_N: {'yhteyde': 1}
+mitali_N: {'mitali': 2}
+ehdokas_N: {'ehdokas': 1}
+harrastaa_V: {'harrast': 1}
+tajunta_N: {'tajunna': 1}
+hinta_N: {'hinta': 2, 'hinna': 1}
+indeksi_N: {'indeks': 1}
+mainita_V: {'maini': 1}
+arvoisa_A: {'arvoisa': 1}
+plakaatti_N: {'plakaatte': 1}
+kuopata_V: {'kuoppas': 1}
+kuppi_N: {'kuppi': 1}
+pakolainen_N: {'pakolaise': 1}
+säästö_N: {'säästö': 1}
+virkailija_N: {'virkailija': 2}
+PL2: {'tte': 2}
+aistimus_N: {'aistimukse': 1}
+kierto_N: {'kierto': 1}
+kuuri_N: {'kuuri': 2}
+kertainen_A: {'kertaise': 1}
+tuntinen_A/N: {'tuntinen': 1}
+kudos_N: {'kudoks': 1}
+järvi_N: {'järve': 2}
+purra_V: {'pure': 1}
+potilas_N: {'potila': 2}
+heittää_V: {'heittä': 1}
+auto_N: {'auto': 4}
+rangaistus_N: {'rangaistukse': 1}
+parata_V: {'para': 1}
+insinööri_N: {'insinööri': 1}
+kulku_N: {'kulu': 1, 'kulku': 1}
+muutos_N: {'muutokse': 1, 'muutoks': 1}
+nokka_N: {'noka': 1}
+väylä_N: {'väylä': 2, 'väyl': 1}
+uhka_N: {'uhka': 1}
+kausi_N: {'kaus': 2, 'kaude': 1}
+ranta_N: {'ranta': 1}
+lappeenranta_N: {'lappeenranta': 1}
+muisto_N: {'muisto': 3}
+huolto_N: {'huollo': 1, 'huolto': 2}
+kaivo_N: {'kaivo': 2}
+lämmitä_V: {'lämmi': 1}
+hetki_N: {'hetke': 1}
+keli_N: {'keli': 1}
+määri_N: {'määr': 1}
+jako_N: {'jako': 3}
+hartiainen_A: {'hartiainen': 1}
+lajisto_N: {'lajisto': 2}
+ruuhka_N: {'ruuhka': 1}
+vammainen_A/N: {'vammais': 1}
+vamma_N: {'vammo': 1, 'vamma': 1}
+juttu_N: {'juttu': 1}
+vesi_N: {'ves': 2}
+leikata_V: {'leikka': 1}
+s_CLI: {'s': 1}
+loiskis: {'loiskis': 1}
+rakentaa_V: {'rakenn': 2, 'rakenta': 2}
+murtuma_N: {'murtuma': 1, 'murtum': 1}
+tulos_N: {'tuloks': 1}
+tentti_N: {'tentte': 1}
+luettaa_V: {'luetta': 1}
+lukema_N: {'lukema': 1}
+ilo_N: {'ilo': 1}
+katu_N: {'katu': 2, 'kadu': 1}
+taistella_V: {'taistel': 2}
+voima_N: {'voima': 1}
+tappio_N: {'tappio': 2}
+pylväs_N: {'pylvä': 1}
+vero_N: {'vero': 1}
+ehto_N: {'ehdo': 3}
+lähitaloinen_A: {'lähitalois': 1}
+lämmitin_N: {'lämmitin': 1}
+afrikka_N: {'afrika': 1}
+tiede_N: {'tietee': 1}
+helikopteri_N: {'helikopter': 1}
+kohtainen_A: {'kohtaise': 2}
+tunkeutuminen_N: {'tunkeutumis': 1}
+standardi_N: {'standardi': 1}
+iltainen_A: {'iltainen': 1}
+muuttaja_N: {'muuttaja': 1}
+opisto_N: {'opisto': 2}
+tekijä_N: {'tekijä': 3, 'tekijö': 1}
+tuotanto_N: {'tuotanto': 2, 'tuotanno': 2}
+kyky_N: {'kyky': 1}
+taulu_N: {'taulu': 3}
+juna_N: {'juna': 2}
+saada_V: {'saa': 4}
+järjestää_V: {'järjest': 2}
+periä_V: {'peri': 1}
+laatu_N: {'laatu': 1}
+maksu_N: {'maksu': 4}
+possu_N: {'possu': 2}
+varasto_N: {'varasto': 1}
+yhdistää_V: {'yhdist': 3}
+kulu_N: {'kulu': 1}
+toimi_N: {'toimi': 1, 'toim': 1}
+sota_N: {'sota': 1}
+spesialisti_N: {'spesialisti': 2}
+tapahtuma_N: {'tapahtuma': 1}
+hai_N: {'ha': 1}
+peli_N: {'peli': 1}
+elin_N: {'elin': 1}
+liikenne_N: {'liikentee': 1, 'liikenne': 1}
+upseeri_N: {'upseer': 1, 'upseeri': 1}
+tietoinen_A: {'tietois': 1, 'tietoinen': 1}
+tuote_N: {'tuotte': 2, 'tuote': 1, 'tuottee': 1}
+teoria_N: {'teoria': 1}
+kauris_N: {'kauri': 1}
+lauta_N: {'lauta': 1}
+mantu_N: {'mannu': 1, 'mantu': 1}
+seutu_N: {'seudu': 1}
+terve_A: {'terve': 1}
+pide: {'pide': 2}
+kysellä_V: {'kysel': 1}
+vanki_N: {'vangi': 1, 'vanki': 1}
+merkkinen_A: {'merkkis': 1}
+gramma_N: {'gramma': 1}
+tarkka_A: {'tarka': 1}
+paperi_N: {'paperi': 2}
+koko_N: {'koo': 1}
+aika_A: {'aika': 2}
+sija_N: {'sijo': 1}
+lukea_V: {'luki': 1}
+kansallinen_A: {'kansallis': 1}
+kulttuurinen_A: {'kulttuurise': 1}
+mordvalainen_A/N: {'mordvalais': 1}
+lattia_N: {'lattia': 1}
+cross: {'cross': 1}
+muisti_N: {'muisti': 1}
+otto_N: {'oto': 2, 'otto': 3}
+mukaan_ADV: {'mukaan': 1}
+media_N: {'media': 1}
+esittää_V: {'esit': 1}
+seikka_N: {'seiko': 1, 'seikko': 1}
+laita_N: {'laida': 1}
+varkaus_N: {'varkaut': 1}
+elämys_N: {'elämys': 1}
+lehdistö_N: {'lehdistö': 1}
+perhe_N: {'perhe': 1}
+rotuinen_A: {'rotuis': 1, 'rotuise': 2}
+haku_N: {'haku': 3}
+onni_N: {'onne': 1}
+säiliö_N: {'säiliö': 1}
+kate_N: {'kattee': 1}
+kotka_N: {'kotka': 1}
+tili_N: {'tile': 1}
+pesä_N: {'pesä': 1}
+palloilla_V: {'palloili': 1}
+ministeri_N: {'ministeri': 2}
+urheilla_V: {'urheili': 1, 'urheil': 1}
+rikko_N: {'riko': 2}
+meno_N: {'meno': 1}
+radiologia_N: {'radiologia': 1}
+toimisto_N: {'toimisto': 1}
+rooli_N: {'rooli': 1}
+villa_N: {'villa': 1}
+palkinto_N: {'palkinto': 4}
+lauseke_N: {'lauseke': 1}
+vartaloinen_A: {'vartalois': 1}
+paine_N: {'paine': 1}
+vieru_N: {'vieru': 1}
+näytelmä_N: {'näytelm': 1}
+ruotsi_N: {'ruotsi': 1}
+tila_N: {'tila': 4, 'tilo': 3}
+rauta_N: {'rauta': 2}
+rysy_N: {'rysy': 1}
+painos_N: {'painokse': 1}
+neva_N: {'neva': 1}
+näytteillä_ADV: {'näyttei': 1}
+käydä_V: {'käy': 1}
+oppinen_A: {'oppis': 2}
+osto_N: {'osto': 2}
+joukkue_N: {'joukkuee': 2}
+piiras_N: {'piiraa': 1, 'piira': 1}
+luotto_N: {'luoto': 1}
+ohjelma_N: {'ohjelma': 2}
+velka_N: {'velko': 1}
+paris: {'paris': 1}
+vaihto_N: {'vaihto': 1}
+suu_N: {'suu': 1}
+liike_N: {'liikkee': 1}
+oranen_N: {'oras': 1}
+säestää_V: {'säest': 1}
+omistaa_V: {'omista': 1}
+voi: {'voi': 1}
+pankki_N: {'pankki': 2, 'panki': 1}
+tukka_N: {'tukka': 1}
+lainata_V: {'laina': 1}
+enemmyys_N: {'enemmyys': 1}
+rajoittaa_V: {'rajoite': 1}
+astia_N: {'astia': 1}
+sää_N: {'sää': 2}
+työllistää_V: {'työllistä': 1}
+suoli_N: {'suole': 1}
+aukio_N: {'aukio': 2}
+aktivisti_N: {'aktivisti': 1}
+johtoinen_A: {'johtoise': 1}
+korottaa_V: {'korot': 2}
+ilta_N: {'ilta': 2}
+palli_N: {'palli': 1}
+palkata_V: {'palkkaa': 1}
+asunto_N: {'asunno': 1}
+halu_N: {'halu': 2}
+muoto_N: {'muodo': 2}
+kokeilla_V: {'kokeil': 1}
+tunti_N: {'tunti': 1}
+musta_A: {'must': 1}
+luku_N: {'luvu': 1}
+halli_N: {'halli': 2}
+emäntä_N: {'emännä': 1}
+neuvonta_N: {'neuvonna': 1}
+uinti_N: {'uinti': 1}
+raha_N: {'raho': 1, 'raha': 1}
+kauppa_N: {'kaupo': 1, 'kauppa': 1, 'kauppo': 1}
+peruna_N: {'peruna': 1}
+korko_N: {'koro': 1}
+laitteisto_N: {'laitteisto': 1}
+seinä_N: {'seinä': 2}
+rauha_N: {'rauha': 1}
+sukeltaa_V: {'sukell': 1}
+vene_N: {'vene': 1}
+osakas_N: {'osakka': 2}
+pien_PFX: {'pien': 1}
+rakko_N: {'rako': 1}
+filmi_N: {'filmi': 1}
+leipä_N: {'leiv': 1}
+lohko_N: {'lohko': 1}
+räme_N: {'räme': 1}
+sisko_N: {'sisko': 1}
+kohde_N: {'kohde': 1, 'kohtee': 2, 'kohte': 1}
+verho_N: {'verho': 1}
+ruisku_N: {'ruisku': 1}
+DVUTU: {'utu': 5, 'yty': 1, 'udu': 1}
+ralli_N: {'ralli': 1}
+pituus_N: {'pituus': 1}
+neuvoa_V: {'neuvo': 1}
+DNITTAIN: {'ittain': 1}
+housu_N: {'housu': 2}
+johto_N: {'johto': 1}
+somaattinen_A: {'somaattise': 1}
+terapeutti_N: {'terapeuti': 1}
+piirteinen_A: {'piirteis': 1}
+urakka_N: {'urakka': 1}
+etiketti_N: {'etiketi': 1}
+multa_N: {'multa': 1}
+maali_N: {'maali': 1}
+tiilinen_A: {'tiilis': 1}
+koneisto_N: {'koneisto': 1}
+runkoinen_A: {'runkois': 1}
+tarha_N: {'tarha': 2}
+palsta_N: {'palsta': 1}
+vastainen_A: {'vastaise': 1}
+päin: {'päin': 1}
+valmius_N: {'valmiut': 1, 'valmius': 1}
+etappi_N: {'etappe': 1}
+kirja_N: {'kirja': 3}
+merkitä_V: {'merki': 2}
+tanssi_N: {'tansse': 1}
+kerätä_V: {'kerä': 1}
+uni_N: {'uni': 1, 'un': 1}
+kivistää_V: {'kivist': 1}
+koe_N: {'koe': 1}
+rumba_N: {'rumba': 1}
+prosessi_N: {'prosessi': 2}
+kustantaa_V: {'kustann': 1}
+määräinen_A: {'määräinen': 1}
+käyttö_N: {'käyttö': 1, 'käytö': 1}
+sotku_N: {'sotku': 1}
+laite_N: {'laite': 1, 'laittee': 1}
+rangaista_V: {'rangais': 1}
+virka_N: {'vira': 1}
+omainen_N: {'omainen': 1}
+lupa_N: {'luva': 1, 'lupa': 1}
+pysähdys_N: {'pysähdykse': 1}
+tulli_N: {'tulli': 1}
+kurvi_N: {'kurvi': 1}
+peri_PFX: {'peri': 1}
+aate_N: {'aate': 1}
+kehittää_V: {'kehit': 3}
+turvata_V: {'turvaa': 1, 'turva': 1}
+jääkäri_N: {'jääkäri': 1}
+reissu_N: {'reissu': 1}
+kääntö_N: {'kääntö': 1}
+silta_N: {'silla': 1}
+lasi_N: {'lasi': 1}
+ravintola_N: {'ravintola': 1}
+lisä_N: {'lis': 1}
+ajella_V: {'ajel': 1}
+pitää_V: {'pitä': 1}
+tuntu_N: {'tunnu': 1}
+ikä_N: {'ikä': 1}
+kirje_N: {'kirjee': 3}
+DVNA: {'na': 1}
+filosofi_N: {'filosofi': 1}
+paketti_N: {'pakett': 1}
+säde_N: {'säte': 1}
+saalistaa_V: {'saalista': 1, 'saalist': 1}
+tikki_N: {'tiki': 1}
+oja_N: {'oja': 2}
+tuttu_A/N: {'tuttu': 1}
+kirjailla_V: {'kirjaili': 1}
+potku_N: {'potku': 1}
+tyyppinen_A: {'tyyppise': 1}
+asteinen_A: {'asteinen': 1}
+pinja_N: {'pinja': 1}
+siemen_N: {'siemen': 1}
+kastike_N: {'kastiket': 1}
+mytologia_N: {'mytologia': 1}
+sanoma_N: {'sanoma': 1}
+vuori_N: {'vuore': 1}
+katto_N: {'katto': 1}
+saumata_V: {'saumaa': 1}
+lahti_N: {'lahde': 1}
+selvitä_V: {'selviä': 1}
+rinki_N: {'rinki': 1}
+tiimi_N: {'tiimi': 1}
+shanghai_N: {'shanghai': 1}
+politiikka_N: {'politiikka': 3}
+operaatio_N: {'operaatio': 1}
+lippu_N: {'lippu': 1}
+soija_N: {'soija': 1}
+muurahainen_N: {'muurahais': 1}
+pitoinen_A: {'pitois': 1}
+tauti_N: {'taudi': 1}
+trumpetisti_N: {'trumpetisti': 1}
+poliittinen_A: {'poliittise': 1, 'poliittinen': 1}
+validi_A: {'validi': 1}
+rikos_N: {'rikoks': 1}
+saalis_N: {'saali': 1}
+tantere_N: {'tanteree': 1}
+karkuruus_N: {'karkuruude': 1}
+puku_N: {'puvu': 1}
+soitto_N: {'soitto': 1}
+tähti_N: {'tähti': 1}
+bakteeri_N: {'bakteere': 1}
+niksi_N: {'nikse': 1}
+firma_N: {'firma': 2}
+tehdas_N: {'tehtaa': 1}
+valistaa_V: {'valist': 1}
+menestys_N: {'menestykse': 1}
+ristetä_V: {'riste': 1}
+ruotsalainen_A/N: {'ruotsalais': 1}
+suomenruotsalainen_A/N: {'suomenruotsalais': 1}
+mittainen_A: {'mittaise': 1}
+kairata_V: {'kaira': 1}
+harkita_V: {'harki': 1}
+käyttää_V: {'käyttä': 1}
+kehä_N: {'kehä': 1}
+hella_N: {'hella': 1}
+sauna_N: {'sauna': 1}
+kala_N: {'kalo': 1}
+ukki_N: {'ukke': 1, 'ukk': 1}
+havainto_N: {'havainto': 1}
+kone_N: {'kone': 2}
+kranaatti_N: {'kranaatti': 1}
+letti_N: {'letti': 1}
+taivaltaa_V: {'taivalle': 1}
+tintti_N: {'tinti': 1}
+missio_N: {'missio': 2}
+uutinen_N: {'uutis': 1}
+kenkä_N: {'kengä': 1, 'keng': 1, 'kenk': 1}
+tiikeri_N: {'tiikere': 1}
+kuopio_N: {'kuopio': 1}
+norja_A: {'norja': 1}
+turma_N: {'turma': 1}
+tapaturma_N: {'tapaturma': 1}
+tilasto_N: {'tilasto': 1}
+menetellä_V: {'menettel': 1}
+matka_N: {'matka': 1}
+arvo_N: {'arvo': 2}
+tausta_N: {'tausta': 2}
+tieto_N: {'tieto': 2}
+perintö_N: {'perintö': 1}
+visio_N: {'visio': 1}
+televisio_N: {'televisio': 1}
+nainen_N: {'naise': 1}
+puute_N: {'puuttee': 1}
+siru_N: {'siru': 1}
+kanta_N: {'kanta': 1}
+soveltaa_V: {'sovell': 1}
+sade_N: {'sadet': 1}
+sympatia_N: {'sympatia': 1}
+päis: {'päis': 1}
+kekkerit_N: {'kekker': 1}
+päätös_N: {'päätös': 1}
+tuntuinen_A: {'tuntuise': 1}
+tulo_N: {'tulo': 3}
+pide_N: {'pitee': 1}
+elo_N: {'elo': 1}
+suunnitelma_N: {'suunnitelma': 2}
+sose_N: {'soset': 1}
+kelpoinen_A: {'kelpois': 1}
+direktiivi_N: {'direktiivi': 1}
+DVVAINEN: {'vais': 1}
+kiintiö_N: {'kiintiö': 1}
+olut_N: {'olu': 1}
+tavara_N: {'tavaro': 1}
+juusto_N: {'juusto': 1}
+vaikea_A: {'vaike': 1}
+palkita_V: {'palki': 1}
+tuliainen_N: {'tuliais': 1}
+neuvosto_N: {'neuvosto': 1}
+tuurata_V: {'tuuraa': 1, 'tuurat': 1}
+kalu_N: {'kalu': 1}
+ohjelmisto_N: {'ohjelmisto': 1}
+käytäntö_N: {'käytäntö': 1}
+suojella_V: {'suojel': 1}
+turpa_N: {'turva': 1}
+kultti_N: {'kultti': 1}
+täyde_A: {'täyde': 1}
+täysi_A: {'täysi': 1}
+painoinen_A: {'painoise': 1}
+maalainen_A/N: {'maalais': 1}
+mainen_A: {'maise': 1}
+marssi_N: {'marssi': 1}
+suuntautunut_A: {'suuntautunut': 1}
+säteillä_V: {'säteil': 1}
+liete_N: {'liette': 1}
+keskustella_V: {'keskustel': 1}
+kierros_N: {'kierrokse': 1}
+piste_N: {'piste': 1}
+käyttöinen_A: {'käyttöinen': 1}
+tehoinen_A: {'tehois': 1}
+mahdollinen_A: {'mahdollis': 1}
+valin_N: {'valin': 1}
+osoittaa_V: {'osoit': 1}
+kurssi_N: {'kurss': 1, 'kurssi': 1}
+yrittää_V: {'yrit': 1}
+vaihe_N: {'vaihe': 1}
+kiila_N: {'kiila': 2}
+taide_N: {'taitee': 1}
+meri_N: {'mere': 1}
+takainen_A: {'takais': 1}
+ehtoinen_A: {'ehtoise': 1}
+vapaa_A: {'vapaa': 4, 'vapa': 1}
+ehtois: {'ehtois': 1}
+lause_N: {'lause': 1}
+rokote_N: {'rokote': 1}
+syytös_N: {'syytös': 1}
+teline_N: {'teline': 1}
+luopua_V: {'luovu': 1}
+tilainen_A: {'tilais': 1}
+sokeri_N: {'sokeri': 1}
+helpottaa_V: {'helpot': 2}
+maksaa_V: {'maksa': 1}
+tankki_N: {'tankki': 1}
+talli_N: {'talle': 1}
+pula_N: {'pula': 1}
+palvelin_N: {'palvelime': 1}
+vihollinen_N: {'vihollis': 1}
+nero_N: {'nero': 1}
+väline_N: {'väline': 1}
+laskuri_N: {'laskuri': 1}
+harjoittaa_V: {'harjoit': 1}
+pA_CLI: {'pa': 1}
+sukka_N: {'sukk': 1}
+viritä_V: {'viriä': 1}
+mittari_N: {'mittari': 1}
+tulla_V: {'tule': 1}
+pokaali_N: {'pokaali': 1}
+annos_N: {'annos': 1}
+laskea_V: {'laske': 1}
+suoda_V: {'suo': 1}
+taso_N: {'taso': 1}
+merkityksinen_A: {'merkityksis': 1}
+pukeinen_A: {'pukeise': 1}
+pudota_V: {'putoa': 1}
+ORD: {'t': 1}
+diplomaatti_N: {'diplomaati': 1}
+edustusto_N: {'edustusto': 1}
+päteä_V: {'päte': 1}
+matrikkeli_N: {'matrikkeli': 1}
+määrätä_V: {'määrä': 1}
+yllättää_V: {'yllättä': 2}
+hirsi_N: {'hirre': 1}
+ympäripäinen_A: {'ympäripäis': 1}
+kylpy_N: {'kylpy': 1}
+näytös_N: {'näytökse': 1}
+pakkanen_N: {'pakkanen': 1}
+hara_N: {'hara': 1}
+ärsyke_N: {'ärsykke': 1}
+oikeistolainen_A: {'oikeistolais': 1}
+tankkeri_N: {'tankkeri': 1}

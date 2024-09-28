@@ -1,0 +1,2 @@
+Training Data Size	Accuracy	Bias
+1	97.31903485254692	segmental

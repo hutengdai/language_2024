@@ -1,0 +1,5 @@
+{'sf': 'sɑɑtin', 'freq': '3', 'analysis': 'Stem-gen', 'segmentation': 'sɑɑt-in', 'ur': 'sɑɑt-Hn', 'predicted_sr': 'sɑɑt-ɯn'}
+{'sf': 'hɑlin', 'freq': '2', 'analysis': 'Stem-gen', 'segmentation': 'hɑl-in', 'ur': 'hɑl-Hn', 'predicted_sr': 'hɑl-ɯn'}
+{'sf': 'dikkɑtli', 'freq': '2', 'analysis': 'Stem-li', 'segmentation': 'dikkɑt-li', 'ur': 'dikkɑt-lH', 'predicted_sr': 'dikkɑt-lɯ'}
+{'sf': 'hɑli', 'freq': '1', 'analysis': 'Stem-p3s', 'segmentation': 'hɑl-i', 'ur': 'hɑl-H', 'predicted_sr': 'hɑl-ɯ'}
+{'sf': 'sɑɑtmi', 'freq': '1', 'analysis': 'Stem-p1s-acc', 'segmentation': 'sɑɑt-m-i', 'ur': 'sɑɑt-m-H', 'predicted_sr': 'sɑɑt-m-ɯ'}

@@ -1,0 +1,15 @@
+{'sf': 'arvostelijoilla', 'freq': '1', 'analysis': 'arvostela_V-DVJO-PL-ADE', 'segmentation': 'arvosteli-jo-i-la', 'ur': 'arvosteli-jO-i-lA', 'predicted_sr': 'arvosteli-jO-i-lä'}
+{'sf': 'budjettiriihistä', 'freq': '1', 'analysis': 'budjeti_N-rihi_N-PL-ELA', 'segmentation': 'budjeti-rih-i-stä', 'ur': 'budjeti-rih-i-stA', 'predicted_sr': 'budjeti-rih-i-sta'}
+{'sf': 'haudutettu', 'freq': '1', 'analysis': 'hautua_V-DVTA-PSPCP2', 'segmentation': 'haudu-te-tu', 'ur': 'haudu-tA-tU', 'predicted_sr': 'haudu-ta-tu'}
+{'sf': 'haudutetulla', 'freq': '1', 'analysis': 'hautua_V-DVTA-PSPCP2-ADE', 'segmentation': 'haudu-te-tu-la', 'ur': 'haudu-tA-tU-lA', 'predicted_sr': 'haudu-ta-tu-la'}
+{'sf': 'huoltotöihin', 'freq': '1', 'analysis': 'huolto_N-työ_N-PL-ILL', 'segmentation': 'huolto-tö-i-hin', 'ur': 'huolto-työ-i-Vn', 'predicted_sr': 'huolto-työ-i-in'}
+{'sf': 'iltalehdessä', 'freq': '1', 'analysis': 'ilta_N-lehti_N-INE', 'segmentation': 'ilta-lehde-sä', 'ur': 'ilta-lehdi-sA', 'predicted_sr': 'ilta-lehdi-sa'}
+{'sf': 'loppukiireessä', 'freq': '1', 'analysis': 'lopu_N-kire_A-INE', 'segmentation': 'lopu-kire-sä', 'ur': 'lopu-kire-sA', 'predicted_sr': 'lopu-kire-sa'}
+{'sf': 'maalaako', 'freq': '1', 'analysis': 'malata_V-kO_CLI', 'segmentation': 'mala-ko', 'ur': 'mala-kO', 'predicted_sr': 'mala-kO'}
+{'sf': 'naisurheilijoiksi', 'freq': '1', 'analysis': 'nainen_N-urheila_V-DVJO-PL-TRA', 'segmentation': 'nais-urheili-jo-i-ksi', 'ur': 'nais-urheili-jO-i-ksi', 'predicted_sr': 'nais-urheili-jO-i-ksi'}
+{'sf': 'oikeampi', 'freq': '1', 'analysis': 'oikea_A-CMP', 'segmentation': 'oikea-mpi', 'ur': 'oikea-mpA', 'predicted_sr': 'oikea-mpa'}
+{'sf': 'perintörahoilla', 'freq': '1', 'analysis': 'perintö_N-raha_N-PL-ADE', 'segmentation': 'perintö-raho-i-la', 'ur': 'perintö-raha-i-lA', 'predicted_sr': 'perintö-raha-i-la'}
+{'sf': 'perunakaupoista', 'freq': '1', 'analysis': 'peru_N-ES-kaupa_N-PL-ELA-peruna_N', 'segmentation': 'peru-na-kaupo-i-sta-peruna', 'ur': 'peru-nA-kaupa-i-stA-peruna', 'predicted_sr': 'peru-na-kaupa-i-sta-peruna'}
+{'sf': 'piirrosfilmissä', 'freq': '1', 'analysis': 'piros_N-filmi_N-INE', 'segmentation': 'piros-filmi-sä', 'ur': 'piros-filmi-sA', 'predicted_sr': 'piros-filmi-sa'}
+{'sf': 'saksalaiskirjailijoiden', 'freq': '1', 'analysis': 'saksalainen_A/N-kirjaila_V-DVJO-PL-GEN', 'segmentation': 'saksalais-kirjaili-jo-i-den', 'ur': 'saksalais-kirjaili-jO-i-den', 'predicted_sr': 'saksalais-kirjaili-jO-i-den'}
+{'sf': 'vaihtopisteitä', 'freq': '1', 'analysis': 'vaihto_N-piste_N-PL-PTV', 'segmentation': 'vaihto-piste-i-tä', 'ur': 'vaihto-piste-i-tA', 'predicted_sr': 'vaihto-piste-i-ta'}

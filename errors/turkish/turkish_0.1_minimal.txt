@@ -1,0 +1,17 @@
+{'sf': 'køpryyn', 'freq': '12', 'analysis': 'Stem-gen', 'segmentation': 'køpry-yn', 'ur': 'køpry-Hn', 'predicted_sr': 'køpry-Hn'}
+{'sf': 'otobysyn', 'freq': '3', 'analysis': 'Stem-gen', 'segmentation': 'otobys-yn', 'ur': 'otobys-Hn', 'predicted_sr': 'otobys-Hn'}
+{'sf': 'ytyy', 'freq': '3', 'analysis': 'Stem-acc', 'segmentation': 'yty-y', 'ur': 'yty-H', 'predicted_sr': 'yty-H'}
+{'sf': 'sɑɑtin', 'freq': '3', 'analysis': 'Stem-gen', 'segmentation': 'sɑɑt-in', 'ur': 'sɑɑt-Hn', 'predicted_sr': 'sɑɑt-ɯn'}
+{'sf': 'hɑlin', 'freq': '2', 'analysis': 'Stem-gen', 'segmentation': 'hɑl-in', 'ur': 'hɑl-Hn', 'predicted_sr': 'hɑl-ɯn'}
+{'sf': 'dikkɑtli', 'freq': '2', 'analysis': 'Stem-li', 'segmentation': 'dikkɑt-li', 'ur': 'dikkɑt-lH', 'predicted_sr': 'dikkɑt-lɯ'}
+{'sf': 'sytsyz', 'freq': '1', 'analysis': 'Stem-siz', 'segmentation': 'syt-syz', 'ur': 'syt-sHz', 'predicted_sr': 'syt-sHz'}
+{'sf': 'kyrky', 'freq': '1', 'analysis': 'Stem-p3s', 'segmentation': 'kyrk-y', 'ur': 'kyrk-H', 'predicted_sr': 'kyrk-H'}
+{'sf': 'ørtyy', 'freq': '1', 'analysis': 'Stem-p3s', 'segmentation': 'ørty-y', 'ur': 'ørty-H', 'predicted_sr': 'ørty-H'}
+{'sf': 'køpryy', 'freq': '1', 'analysis': 'Stem-acc', 'segmentation': 'køpry-y', 'ur': 'køpry-H', 'predicted_sr': 'køpry-H'}
+{'sf': 'gynyn', 'freq': '1', 'analysis': 'Stem-gen', 'segmentation': 'gyn-yn', 'ur': 'gyn-Hn', 'predicted_sr': 'gyn-Hn'}
+{'sf': 'syryp', 'freq': '1', 'analysis': 'Stem-cv:ip', 'segmentation': 'syr-yp', 'ur': 'syr-Hp', 'predicted_sr': 'syr-Hp'}
+{'sf': 'gøtyrynʤe', 'freq': '1', 'analysis': 'Stem-cv:ince', 'segmentation': 'gøtyr-ynʤe', 'ur': 'gøtyr-HnʤA', 'predicted_sr': 'gøtyr-HnʤA'}
+{'sf': 'hɑli', 'freq': '1', 'analysis': 'Stem-p3s', 'segmentation': 'hɑl-i', 'ur': 'hɑl-H', 'predicted_sr': 'hɑl-ɯ'}
+{'sf': 'sɑɑtmi', 'freq': '1', 'analysis': 'Stem-p1s-acc', 'segmentation': 'sɑɑt-m-i', 'ur': 'sɑɑt-m-H', 'predicted_sr': 'sɑɑt-m-ɯ'}
+{'sf': 'sysly', 'freq': '1', 'analysis': 'Stem-li', 'segmentation': 'sys-ly', 'ur': 'sys-lH', 'predicted_sr': 'sys-lH'}
+{'sf': 'jyzyn', 'freq': '1', 'analysis': 'Stem-gen', 'segmentation': 'jyz-yn', 'ur': 'jyz-Hn', 'predicted_sr': 'jyz-Hn'}

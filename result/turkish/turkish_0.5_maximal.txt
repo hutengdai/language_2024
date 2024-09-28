@@ -1,0 +1,2 @@
+Training Data Size	Accuracy	Bias
+1	99.32975871313673	maximal

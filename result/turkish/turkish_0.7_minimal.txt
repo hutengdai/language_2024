@@ -1,0 +1,2 @@
+Training Data Size	Accuracy	Bias
+1	57.64075067024129	minimal
